@@ -1,0 +1,14 @@
+{
+  "name": "academic-education",
+  "version": "1.0.0",
+  "description": "A school website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ravi kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
