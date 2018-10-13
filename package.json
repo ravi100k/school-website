@@ -8,7 +8,7 @@
   },
   "author": "ravi kumar",
   "license": "MIT",
-  "dependencies": {
+  "dev dependencies": {
     "express": "^4.16.4"
   }
 }
